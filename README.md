@@ -1,8 +1,8 @@
-# Tournament-Creater
+# Tournament-Creator
 
-Tournament-Creater is a lightweight browser-based app for running a **King of the Hill** style pool tournament. It supports player setup, table assignment, live match tracking, queue rotation, standings, and quick utility pages.
+Tournament-Creator is a lightweight browser-based app for running a **King of the Hill** style pool tournament. It supports player setup, table assignment, live match tracking, queue rotation, standings, and quick utility pages.
 
-Can open official Github Hosted site at https://mahoneygd.github.io/Tournament-Creater/
+Can open official Github Hosted site at https://mahoneygd.github.io/Tournament-Creator/
 
 ## Features
 
@@ -33,11 +33,11 @@ This project is static HTML/CSS/JS and does not require a build step.
 
 ### Option 1: Open directly
 
-Open `/home/runner/work/Tournament-Creater/Tournament-Creater/docs/index.html` in your browser.
+Open `/home/runner/work/Tournament-Creator/Tournament-Creator/docs/index.html` in your browser.
 
 ### Option 2: Run a local static server (recommended)
 
-From the repository root (`/home/runner/work/Tournament-Creater/Tournament-Creater`), run one of:
+From the repository root (`/home/runner/work/Tournament-Creator/Tournament-Creator`), run one of:
 
 - Python 3:
   - `python3 -m http.server 8000`
