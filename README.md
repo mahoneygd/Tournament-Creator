@@ -2,6 +2,8 @@
 
 Tournament-Creater is a lightweight browser-based app for running a **King of the Hill** style pool tournament. It supports player setup, table assignment, live match tracking, queue rotation, standings, and quick utility pages.
 
+Can open official Github Hosted site at https://mahoneygd.github.io/Tournament-Creater/
+
 ## Features
 
 - Start a tournament from a list of player names
